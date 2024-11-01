@@ -1,0 +1,11 @@
+{
+    "require": {
+        "simplepay/php-sdk": "dev-master"
+    },
+    "repositories":[
+        {
+            "type": "path",
+            "url":  "../../../../simplepay-sdk"
+        }
+    ]
+}
